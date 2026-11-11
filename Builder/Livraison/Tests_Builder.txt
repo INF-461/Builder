@@ -1,0 +1,33 @@
+﻿VERSION : Cours
+===== PIZZA REINE FABRIQUEE =====
+Pizza
+Pate = croisee
+ Sauce = douce
+ Garniture = jambon + champignon
+
+===== PIZZA PIQUANTE FABRIQUEE =====
+Pizza
+Pate = feuilletee
+ Sauce = piquante
+ Garniture = pepperoni + salami
+
+===== FIN DES TESTS =====
+
+VERSION : Modifié
+===== VERSION MODIFIEE =====
+
+===== PIZZA REINE =====
+Pate : croisee
+Sauce : douce
+Garniture : jambon + champignon
+
+===== PIZZA PIQUANTE =====
+Pate : feuilletee
+Sauce : piquante
+Garniture : pepperoni + salami
+
+===== TEST INDEPENDANCE =====
+Deux pizzas distinctes : true
+
+===== FIN DES TESTS =====
+

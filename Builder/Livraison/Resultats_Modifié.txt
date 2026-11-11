@@ -1,0 +1,16 @@
+﻿===== VERSION MODIFIEE =====
+
+===== PIZZA REINE =====
+Pate : croisee
+Sauce : douce
+Garniture : jambon + champignon
+
+===== PIZZA PIQUANTE =====
+Pate : feuilletee
+Sauce : piquante
+Garniture : pepperoni + salami
+
+===== TEST INDEPENDANCE =====
+Deux pizzas distinctes : true
+
+===== FIN DES TESTS =====

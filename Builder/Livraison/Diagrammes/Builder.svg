@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="720">
+<rect width="1100" height="720" fill="white"/>
+<text x="550" y="45" font-size="28" text-anchor="middle" font-weight="bold">BUILDER - PATRON DE CONCEPTION</text>
+<g font-family="Arial" font-size="17" fill="black" stroke="#333" stroke-width="2">
+<rect x="60" y="110" width="210" height="100" fill="#f5dfaa"/>
+<text x="165" y="140" text-anchor="middle" stroke="none" font-weight="bold">Client</text>
+<text x="165" y="175" text-anchor="middle" stroke="none">main()</text>
+<rect x="410" y="110" width="230" height="100" fill="#f5dfaa"/>
+<text x="525" y="140" text-anchor="middle" stroke="none" font-weight="bold">Directeur</text>
+<text x="525" y="175" text-anchor="middle" stroke="none">construire()</text>
+<rect x="790" y="100" width="260" height="150" fill="#dceafa"/>
+<text x="920" y="130" text-anchor="middle" stroke="none" font-weight="bold">MonteurPizza</text>
+<text x="920" y="165" text-anchor="middle" stroke="none">monterPate()</text>
+<text x="920" y="195" text-anchor="middle" stroke="none">monterSauce()</text>
+<text x="920" y="225" text-anchor="middle" stroke="none">monterGarniture()</text>
+<path d="M270 160 L410 160 M640 160 L790 160" fill="none"/>
+<rect x="370" y="360" width="240" height="110" fill="#e4f1dd"/>
+<text x="490" y="395" text-anchor="middle" stroke="none" font-weight="bold">Pizza</text>
+<text x="490" y="430" text-anchor="middle" stroke="none">pate, sauce, garniture</text>
+<rect x="760" y="350" width="170" height="100" fill="#f5dfaa"/>
+<text x="845" y="385" text-anchor="middle" stroke="none">MonteurPizza</text>
+<text x="845" y="415" text-anchor="middle" stroke="none">Reine</text>
+<rect x="760" y="520" width="170" height="100" fill="#f5dfaa"/>
+<text x="845" y="555" text-anchor="middle" stroke="none">MonteurPizza</text>
+<text x="845" y="585" text-anchor="middle" stroke="none">Piquante</text>
+<path d="M920 250 L920 300 L845 300 L845 350 M920 300 L845 300 L845 520" fill="none"/>
+<path d="M760 400 L610 400" fill="none" stroke-dasharray="7 5"/>
+<text x="550" y="680" text-anchor="middle" stroke="none" font-size="15">Le directeur orchestre la construction du produit Pizza.</text>
+</g>
+</svg>
